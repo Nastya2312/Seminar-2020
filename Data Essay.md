@@ -6,7 +6,7 @@
 ### Чем данные отличаются от информации?
 Данные - это фиксированные сведения о чем-либо. Например: возраст, дата рождения, место жительства/рождения.     
 Информация - это условный продукт, который получен на основе обработки данных.     
-**Источники данных:    
+**Источники данных**:    
 https://migrationdataportal.org/data?i=stock_abs_&t=2020      
 https://www.un.org/en/development/desa/population/migration/data/estimates2/estimates19.asp
 https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockTotal_2019.xlsx

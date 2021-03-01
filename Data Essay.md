@@ -15,3 +15,8 @@ https://hubofdata.ru/dataset/migrant
 отсутствуют       
 ### Лицензия:    
 Creative Commons license CC BY 3.0 IGO
+### Авторство:    
+United Nations, Department of Economic and Social Affairs, Population Division     
+https://www.un.org/en/contact-us/     
+### Формат данных:    
+XLSX, очистка не требуется

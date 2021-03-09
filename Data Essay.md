@@ -14,7 +14,7 @@ https://hubofdata.ru/dataset/migrant
 ### Ограничения:    
 отсутствуют       
 ### Лицензия:    
-Creative Commons license CC BY 3.0
+Creative Commons Attribution 4.0 International
 ### Авторство:    
 United Nations, Department of Economic and Social Affairs, Population Division     
 https://www.un.org/en/contact-us/     
